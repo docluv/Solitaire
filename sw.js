@@ -1,8 +1,8 @@
-const preCacheName = "pre-cache-hextris",
+const preCacheName = "pre-cache-solitaire",
     preCacheFiles = [
         "/",
         "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
-        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" >
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css",
         "css/style.css",
         "css/cards.css",
         "https://code.jquery.com/jquery-3.1.1.js",
